@@ -1,0 +1,12 @@
+.busquedas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.lista-tarjetas{
+    display: flex;
+    justify-content: center;
+}

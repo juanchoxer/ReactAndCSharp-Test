@@ -1,0 +1,6 @@
+.product-foto {
+    max-width: 100px;
+    cursor: pointer;
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
